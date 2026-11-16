@@ -1,4 +1,4 @@
-# ProjectTER (Project 50) - Autonomous Drone Swarm for S&R
+# Autonomous Drone Swarm for S&R
 
 Ce projet porte sur la simulation d'un système de drone autonome dédié à la recherche et au sauvetage (R&S), intégrant ROS2, PX4, et des algorithmes de vision par ordinateur.
 
